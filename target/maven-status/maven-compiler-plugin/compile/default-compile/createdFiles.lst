@@ -1,0 +1,11 @@
+practice\AppiumFramwork\Utilities.class
+pageObjects\generalStore\FormPage.class
+pageObjects\apiDemo\PreferencesPage.class
+pageObjects\apiDemo\DependenciesPage.class
+practice\AppiumFramwork\BaseCaps.class
+resources\ExtentReporterNG.class
+resources\ScreenshotListener.class
+pageObjects\apiDemo\HomePage.class
+pageObjects\generalStore\CheckoutPage.class
+practice\AppiumFramwork\TestData.class
+pageObjects\generalStore\ProductListPage.class

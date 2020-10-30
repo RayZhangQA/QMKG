@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48381" started-at="2020-10-29T19:25:57 EDT" finished-at="2020-10-29T19:26:46 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48381" started-at="2020-10-29T19:25:57 EDT" finished-at="2020-10-29T19:26:46 EDT">
+      <class name="testCases.generalStore.TC2_AddingProducts">
+        <test-method status="PASS" signature="addingProducts()[pri:0, instance:testCases.generalStore.TC2_AddingProducts@52f759d7]" name="addingProducts" duration-ms="48358" started-at="2020-10-29T19:25:58 EDT" finished-at="2020-10-29T19:26:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingProducts -->
+      </class> <!-- testCases.generalStore.TC2_AddingProducts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

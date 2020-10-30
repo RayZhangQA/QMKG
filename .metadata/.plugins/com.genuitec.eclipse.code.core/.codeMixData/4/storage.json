@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "dab67a3e120f459d7b36e69a04318afe97cd5632d23c38bb93e38c81044091fa",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "d8e58f9e1d179941ab3816aec0030dd9",
+                "configURIPath": "file:///d%3A/eclipse-workspace/AppiumMavenProject/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}

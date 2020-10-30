@@ -1,0 +1,8 @@
+testCases\generalStore\TC1_FormValidation.class
+testCases\generalStore\TC4_VerifyTotalAmount.class
+testCases\generalStore\TestCaseChecklist.class
+testCases\generalStore\TC6_SwitchWebViewNativeApp.class
+testCases\generalStore\TC5_TermsAndProceedValidation.class
+testCases\generalStore\TC2_AddingProducts.class
+testCases\apiDemo\ApiDemoTest.class
+testCases\generalStore\TC3_VerifyShoppingCart.class
